@@ -1,0 +1,24 @@
+{
+  "name": "wine-site",
+  "version": "0.0.0",
+  "description": "my wine site",
+  "authors": [
+    "Yaokun Pan"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.4",
+    "angular-bootstrap": "~0.13.3",
+    "angular-sanitize": "~1.4.4",
+    "satellizer": "~0.12.2",
+    "angular-ui-router": "~0.2.15"
+  }
+}
